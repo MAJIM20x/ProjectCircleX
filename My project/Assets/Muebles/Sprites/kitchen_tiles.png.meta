@@ -1,0 +1,3533 @@
+fileFormatVersion: 2
+guid: ed67a9fe9b078664a8b91da1109fe60d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kitchen_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f720e06281f874bb6247f1cc505535
+      internalID: -1092948898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 384
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c979dcdc4329384280921a8b7b131b5
+      internalID: -1558535112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 42
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d63bac8bb33a29419714a5d320dcf47
+      internalID: 1575680686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 400
+        width: 224
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c4e69680584d940b8fef66051f2301
+      internalID: -1366854282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 406
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58deab1e396fa344fb6ae33027852cec
+      internalID: -400802589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 406
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac8130d9c61e8d4788cdd865f839baa
+      internalID: -935347820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 406
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37066fcf4c86d44f96b6efc52c58bb6
+      internalID: -1061324056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 405
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fdfa49abec790479ec29ea74bc834b
+      internalID: 1201529195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 415
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169fdb3a96a7de04f9ee973452604a48
+      internalID: 1402086410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 404
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b9a1cf99c30d46b653caa47bd86f8
+      internalID: -316638693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 405
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d3c2286115a634785337eefa6f8642
+      internalID: -1942566193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 404
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066d5933288800c4a9fb202fcf489fa3
+      internalID: 21534236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 415
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6378b0f9fb20b624aa2211bc1607ecbc
+      internalID: -149897446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437e598ca6aa7e7448a2697575b811b5
+      internalID: -834040291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 384
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6951796d7f86f5b4da8b71a8893e1677
+      internalID: 828192384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9412725a9e7e3b4ab7ebf10f877be0b
+      internalID: -221943568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e8c53685594324c87219f337e53924
+      internalID: -1264758576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 405
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3b053dd0f3be549b176fe9980359b7
+      internalID: 1156261753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 404
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e18eaaa1c3ac14a99d0a5d9d1b46e7
+      internalID: -419302642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 404
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6de1547d4fc814fa4f31201322e21d
+      internalID: -1455970305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 404
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdebba5e6b58634b802e10aa6f02dd3
+      internalID: -1602580172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 384
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10514c97a5b1a1489efceaf1572c551
+      internalID: -1612575081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d478f27cf3f2d76468b00301c453d164
+      internalID: -630609228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 368
+        width: 224
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0858737744f205742ad0d206d6cac4c1
+      internalID: 1306188595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 372
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562ba010f52c4e44b08b74501f87218
+      internalID: -221852345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 372
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c2ded62f1b239488c15ed5881b2c77
+      internalID: 1182294701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 372
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d5900a46ed1b41804bcba070684ee
+      internalID: 957444058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 371
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e01ec062285a428e63ee7b5a68bd8
+      internalID: -1640167820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 384
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dde4fdd17603b14d89bb6e373f23189
+      internalID: 2095576208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 370
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72640b5785b7e8a4d81ac7f916eb3661
+      internalID: -255943389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 371
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dc5244a0e6c874289cce42cc1d6f9f
+      internalID: -1424272677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 371
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3eb1b013c5ece4c867084c1f2a0ed1
+      internalID: -718804558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 384
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc2e2635e37b4541822bdeed2d9b123
+      internalID: -1468822475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e6b781f1241b249a2bce88ea49871f
+      internalID: 1739391457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 372
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f304361b3e0f014f89fd5aee058761a
+      internalID: -1063564199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 372
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cabd07122936294cbb4e4b859092a47
+      internalID: -1453181119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 372
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4025c170715dad7488a572ff79bf5e4b
+      internalID: 1003852180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 370
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0db9119edaf0c41b56fcc404f241a3
+      internalID: -26388852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 370
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6462eb5256f25498509274e48fdd42
+      internalID: -1876788324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 371
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee50198c1bb985b41953e4f686ad8e66
+      internalID: -1412135926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c58502d4f247c42a72333c9b8f5b80
+      internalID: -1803965272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 336
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2a16f746c17ec4989556dab8c014a6
+      internalID: 2033327381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 321
+        width: 237
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b224e1b5a8927429ebc29ac3e0cdac
+      internalID: -1984487823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 342
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28373f8743c0ed94fb1f35f594a24cc3
+      internalID: -1997811556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 342
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbd3479fa1aae24fb85a5c297b075c5
+      internalID: -357009541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 342
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2759527e60ebd4d8cc979dfc0e04bd
+      internalID: 544043538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 341
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28db86057c1057438eec761e1bc4439
+      internalID: -504982041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 354
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd63e308fdbda848bfd66ea92086839
+      internalID: -1619239389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 340
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4875d73d5b541314883adfaa477f78a9
+      internalID: -650430283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 341
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a29b7d71d4a8649ab0b4352a8e6036
+      internalID: -1680427615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 341
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e1a6522ae930f45917ec159d678f6c
+      internalID: -1095342110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 354
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26745895c6f04154ca2cd587695d67ba
+      internalID: 187719964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 336
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a604e645334dd0b44899e16764970e35
+      internalID: -1992002685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b15a63e9f6dde24d9fe547f01809d03
+      internalID: -1051124563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956423f5105ae8d4497dc12796fcbf60
+      internalID: -1628508343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1c65b3eef979441a4e7ba7a793de63
+      internalID: -533021072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 342
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96dc21b53bf1e04082be0516262ee73
+      internalID: 1988685529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 340
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af34133d3b16654285d982a10fa5158
+      internalID: 667070467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 340
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf506301d76df664e85a9e8923859a2e
+      internalID: 241001189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 341
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df160abc7c0ece48a1970c4d6057c86
+      internalID: -1358080505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f469e93df6fa33148a027dd813e91adf
+      internalID: 1653220469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff1e73cbc983b14686891caf7ee1f83
+      internalID: 150800990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dcdfae86ece8c418d5d8bafe13a76e
+      internalID: -1009399074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a80bdb18666f8f41a44787d52419ea2
+      internalID: 80093098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e31656603c2d44aaecffec8430b9cc
+      internalID: -1671786146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc2fbd4f313ac54db79f19dd0302bca
+      internalID: -1111655549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a060e86926a29f40b073c7b00a3ee00
+      internalID: -655738725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 304
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8271f1c64cc7a7469bb14e8348b4a64
+      internalID: 1823460612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 314
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9436017d7d95041a5322570f2594d0
+      internalID: 489384274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 312
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfd7b7871f14634a80cd4d67c127c60
+      internalID: 756974128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 321
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa7370936d52174ab25066542dd98a0
+      internalID: 1763056454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 309
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91490e13039c6c44a2513e9a0536aef
+      internalID: 1116972654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 308
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef8d9b8bb525ad4bb04ac614fcfec71
+      internalID: -1074174580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 320
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea5c8d04cde6234bb5c495d052d6cd8
+      internalID: 308605453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 307
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a4f3a1e0c2182489a33f59a2495b51
+      internalID: 419463867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 320
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adae409808b68e041be866b90e90df00
+      internalID: -951559297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 309
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3524acf68c2cb349a47ebd70f747eed
+      internalID: -1057953057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 320
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662d2d41e9b75bd42af5dbe88fafb236
+      internalID: -174232110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 310
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16eaa72f55d94448bbd8ca8cd2c0c64
+      internalID: -968573505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 320
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a03e8babb1a8f4fad2a37284db0b1e
+      internalID: -2066590851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 322
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25763e898eb9682448a9fba658319020
+      internalID: -1440126141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 144
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a1e55bbe808364291a84341ca49cc3
+      internalID: 1722648292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 311
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab9eeb7e2642094a9c87cbbd5338a99
+      internalID: 696203343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 312
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e385851e6366eb429198d96abda9e30
+      internalID: -1005755811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 288
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5810ec1aefa01164bae28f5ea5d21a5c
+      internalID: -281184286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d483ccb994714f9e527d515dfdb53
+      internalID: 1252248641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ce5d167a99b04b9a99c2b3c4a18ff
+      internalID: -1436909747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172782beb21727469c0f55b203d3cca
+      internalID: 883246742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4b2fcaf6ea029499bbed433243fd53
+      internalID: -200509841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f022ac3fb907cca4690b7c1e830d9bb9
+      internalID: -1474680402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c5370b4b92bfa4795fcb81ba42a4b7
+      internalID: 2104726991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e25e4dbe4c7cd44847999372ce73a4
+      internalID: 1173680018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c111a6ac130a3b44f99edae576dce3f2
+      internalID: -527240439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c184a82f2b8494f46acb3b01413888a3
+      internalID: 634186100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b7682fd4e733042a292d5e7fc9bf64
+      internalID: -715566611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3b2f64ce1b87429850e21cf461f36
+      internalID: -83063873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b2d36575b34f14db14ce412b591a48
+      internalID: 1786747072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781fa0012fc1c1d4a8850445fdfe9b43
+      internalID: -63958708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 256
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbcc4c4c186add4186c863f6c85bd81
+      internalID: 1148360667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a07379eee16bf242909e27f995d4179
+      internalID: 281674439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c80431586cb8148aae9873b5ddd13c
+      internalID: 597676780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9837edf314927f4186f80c5c2fb6275
+      internalID: -1645743876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 208
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2df7010b931f574da200ecb3acebfeb
+      internalID: -602945006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a898b245d4ef44c9401f33e6ae932f
+      internalID: -1647451250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf1eb3cbc687348b84279dbd9720f9
+      internalID: -1754330263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7f9a0106314c64f808112ac9d34ddf
+      internalID: 372531965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf2ef5cd83feb04080697a198d9e179
+      internalID: 1261565660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e5ee0f90376654bace2f72af870123
+      internalID: 354496718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23de84d9b8fe0c49b530f599e1fc884
+      internalID: 324645233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9080de46cd218fb4bb3a87e42ae2d7ee
+      internalID: 946299636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8683b065a331c3418289f69a5846291
+      internalID: 1952281422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780e1dd9f2a04cd40aa62a9bd1e4d66a
+      internalID: -392253591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9062bfe680d1f4d9ff953d9d76f37c
+      internalID: -1570180765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cfb2d0a9843fd47a5ec639807995ee
+      internalID: 643362922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23099f03cc66fe64ca91c056fe673bef
+      internalID: -1105246123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b31c98d8936d04bb2687fb845a740b
+      internalID: -627541830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173621271b6f0e4ebfc48c3f8c69d71
+      internalID: 1153070338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894d988c453285d47bc75afe83b928cd
+      internalID: 1707605623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227d09a9fb398c04f83c29f6ae74db55
+      internalID: -1133568228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41db0a091fdf33246950796de3d77b7e
+      internalID: -2033534587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c899495abbb248649b47d84eda43edf3
+      internalID: 449099255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd81badabacbce846897cb3592ac1883
+      internalID: -1387795568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cca0d08f3ed0a46979578855a53f44
+      internalID: -160798225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21fbcef38bd94b45a21fd144e186bf3
+      internalID: 1523335519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278cf27a39d3926439bfdc666d91293a
+      internalID: 277930312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371348fe56a93d741a2fcaf45dad9d3d
+      internalID: 551781498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ef61336156ea43a3b6cb738196837
+      internalID: 435457350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636de40e68a1029478618c2f4a1f9bf3
+      internalID: 1790376951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df822558e905d4d438d592680086b213
+      internalID: 945443384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 208
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d135b7653261147ab25aea15619313
+      internalID: -1330473735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 192
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85a3995e36881241b548ddd6098d7e1
+      internalID: 1480095188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c67b1410983cb743abffb472de138d8
+      internalID: -1318859136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 192
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701919ab9fd1d4449b88c2aa3dbc3d44
+      internalID: -1108455052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 192
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfcee2b5f3978745a0666136623a243
+      internalID: -789944463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_134
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 192
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd20c0a73c89ec4bb3b5431568abbe9
+      internalID: 1597961785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_135
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 192
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27be077804756d642bb70537d2ff1ee9
+      internalID: 1590308573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_136
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 192
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912455838c741864988cde4a9cac0ebc
+      internalID: 1741912553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_137
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 192
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49f7caab498bce4b87beae0a0c5692e
+      internalID: 1890471660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_138
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 192
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feaa54dce9faa541ac0cc5ace4e6206
+      internalID: -2685735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_139
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 192
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdbacf670a7d3443b0f269f820217fa
+      internalID: -1226383054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bb2113c4454ae45ba9988d88f87ff3
+      internalID: 103849568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_141
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 144
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea75acd5dc2580d46bd73cee4cc3437c
+      internalID: 795991057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_142
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0962a2dc14c898346985989eae531b7e
+      internalID: -496543707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc413618e0fe34e44aa2117a4a98f2a6
+      internalID: -730952302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_144
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 96
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c2d1c7e1465ab49bb4e2a0394ddf18
+      internalID: 791598966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_145
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccddf381356b72a45be266e56043ce81
+      internalID: 122567032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38817ef178666294880996e97eef6939
+      internalID: 398264175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_147
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 48
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0680902e76984f43bdf5ff82e3fa873
+      internalID: 1952084413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_148
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963746a2c56e8dd43b3235b654613f25
+      internalID: -945737397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198fbe6f1c0ed1f43b5a050b83555644
+      internalID: 1478800107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a55d009f89db64ba6b9c4daa62664e
+      internalID: 2086657826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_151
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 24
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970c1eada1235741816c68874c16963
+      internalID: 856149434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2065043820bcf54994310e052172c6d
+      internalID: 1144974422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_153
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b2e68ee3f29164782adab1a40e3e40
+      internalID: -805342021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_tiles_154
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d533c122c602e74799b914a7dcf8739
+      internalID: 2044764835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kitchen_tiles_76: -1057953057
+      kitchen_tiles_149: 1478800107
+      kitchen_tiles_23: 1306188595
+      kitchen_tiles_69: 756974128
+      kitchen_tiles_45: 544043538
+      kitchen_tiles_7: 1201529195
+      kitchen_tiles_18: -419302642
+      kitchen_tiles_20: -1602580172
+      kitchen_tiles_54: -1628508343
+      kitchen_tiles_91: 1173680018
+      kitchen_tiles_48: -650430283
+      kitchen_tiles_123: 1523335519
+      kitchen_tiles_90: 2104726991
+      kitchen_tiles_95: -83063873
+      kitchen_tiles_145: 122567032
+      kitchen_tiles_124: 277930312
+      kitchen_tiles_31: -718804558
+      kitchen_tiles_32: -1468822475
+      kitchen_tiles_72: -1074174580
+      kitchen_tiles_77: -174232110
+      kitchen_tiles_143: -730952302
+      kitchen_tiles_47: -1619239389
+      kitchen_tiles_67: 1823460612
+      kitchen_tiles_8: 1402086410
+      kitchen_tiles_74: 419463867
+      kitchen_tiles_128: 945443384
+      kitchen_tiles_129: -1330473735
+      kitchen_tiles_38: -1876788324
+      kitchen_tiles_144: 791598966
+      kitchen_tiles_136: 1741912553
+      kitchen_tiles_42: -1984487823
+      kitchen_tiles_12: -149897446
+      kitchen_tiles_118: -1133568228
+      kitchen_tiles_132: -1108455052
+      kitchen_tiles_49: -1680427615
+      kitchen_tiles_11: 21534236
+      kitchen_tiles_43: -1997811556
+      kitchen_tiles_153: -805342021
+      kitchen_tiles_138: -2685735
+      kitchen_tiles_82: 696203343
+      kitchen_tiles_152: 1144974422
+      kitchen_tiles_101: -1645743876
+      kitchen_tiles_25: 1182294701
+      kitchen_tiles_51: 187719964
+      kitchen_tiles_65: -1111655549
+      kitchen_tiles_19: -1455970305
+      kitchen_tiles_30: -1424272677
+      kitchen_tiles_0: -1092948898
+      kitchen_tiles_13: -834040291
+      kitchen_tiles_40: -1803965272
+      kitchen_tiles_64: -1671786146
+      kitchen_tiles_35: -1453181119
+      kitchen_tiles_81: 1722648292
+      kitchen_tiles_130: 1480095188
+      kitchen_tiles_104: -1754330263
+      kitchen_tiles_92: -527240439
+      kitchen_tiles_111: -392253591
+      kitchen_tiles_84: -281184286
+      kitchen_tiles_103: -1647451250
+      kitchen_tiles_27: -1640167820
+      kitchen_tiles_56: 1988685529
+      kitchen_tiles_70: 1763056454
+      kitchen_tiles_147: 1952084413
+      kitchen_tiles_9: -316638693
+      kitchen_tiles_137: 1890471660
+      kitchen_tiles_150: 2086657826
+      kitchen_tiles_3: -1366854282
+      kitchen_tiles_100: 597676780
+      kitchen_tiles_10: -1942566193
+      kitchen_tiles_75: -951559297
+      kitchen_tiles_97: -63958708
+      kitchen_tiles_126: 435457350
+      kitchen_tiles_63: 80093098
+      kitchen_tiles_29: -255943389
+      kitchen_tiles_78: -968573505
+      kitchen_tiles_58: 241001189
+      kitchen_tiles_14: 828192384
+      kitchen_tiles_5: -935347820
+      kitchen_tiles_28: 2095576208
+      kitchen_tiles_53: -1051124563
+      kitchen_tiles_80: -1440126141
+      kitchen_tiles_57: 667070467
+      kitchen_tiles_87: 883246742
+      kitchen_tiles_94: -715566611
+      kitchen_tiles_17: 1156261753
+      kitchen_tiles_105: 372531965
+      kitchen_tiles_122: -160798225
+      kitchen_tiles_112: -1570180765
+      kitchen_tiles_133: -789944463
+      kitchen_tiles_34: -1063564199
+      kitchen_tiles_62: -1009399074
+      kitchen_tiles_140: 103849568
+      kitchen_tiles_66: -655738725
+      kitchen_tiles_125: 551781498
+      kitchen_tiles_154: 2044764835
+      kitchen_tiles_146: 398264175
+      kitchen_tiles_93: 634186100
+      kitchen_tiles_46: -504982041
+      kitchen_tiles_148: -945737397
+      kitchen_tiles_21: -1612575081
+      kitchen_tiles_50: -1095342110
+      kitchen_tiles_44: -357009541
+      kitchen_tiles_15: -221943568
+      kitchen_tiles_131: -1318859136
+      kitchen_tiles_121: -1387795568
+      kitchen_tiles_16: -1264758576
+      kitchen_tiles_2: 1575680686
+      kitchen_tiles_139: -1226383054
+      kitchen_tiles_141: 795991057
+      kitchen_tiles_134: 1597961785
+      kitchen_tiles_33: 1739391457
+      kitchen_tiles_4: -400802589
+      kitchen_tiles_22: -630609228
+      kitchen_tiles_6: -1061324056
+      kitchen_tiles_52: -1992002685
+      kitchen_tiles_1: -1558535112
+      kitchen_tiles_110: 1952281422
+      kitchen_tiles_117: 1707605623
+      kitchen_tiles_83: -1005755811
+      kitchen_tiles_151: 856149434
+      kitchen_tiles_98: 1148360667
+      kitchen_tiles_109: 946299636
+      kitchen_tiles_116: 1153070338
+      kitchen_tiles_107: 354496718
+      kitchen_tiles_59: -1358080505
+      kitchen_tiles_36: 1003852180
+      kitchen_tiles_79: -2066590851
+      kitchen_tiles_88: -200509841
+      kitchen_tiles_73: 308605453
+      kitchen_tiles_86: -1436909747
+      kitchen_tiles_41: 2033327381
+      kitchen_tiles_61: 150800990
+      kitchen_tiles_68: 489384274
+      kitchen_tiles_55: -533021072
+      kitchen_tiles_37: -26388852
+      kitchen_tiles_115: -627541830
+      kitchen_tiles_119: -2033534587
+      kitchen_tiles_114: -1105246123
+      kitchen_tiles_127: 1790376951
+      kitchen_tiles_60: 1653220469
+      kitchen_tiles_85: 1252248641
+      kitchen_tiles_24: -221852345
+      kitchen_tiles_120: 449099255
+      kitchen_tiles_142: -496543707
+      kitchen_tiles_99: 281674439
+      kitchen_tiles_39: -1412135926
+      kitchen_tiles_102: -602945006
+      kitchen_tiles_113: 643362922
+      kitchen_tiles_108: 324645233
+      kitchen_tiles_89: -1474680402
+      kitchen_tiles_135: 1590308573
+      kitchen_tiles_106: 1261565660
+      kitchen_tiles_26: 957444058
+      kitchen_tiles_96: 1786747072
+      kitchen_tiles_71: 1116972654
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
